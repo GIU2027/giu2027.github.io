@@ -1,5 +1,5 @@
 ---
-layout: Quí som
+layout: Qui som?
 icon: fas fa-stream
 order: 1
 ---
