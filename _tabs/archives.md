@@ -1,5 +1,5 @@
 ---
-layout: archives
+layout: Programa electoral
 icon: fas fa-archive
 order: 3
 ---
